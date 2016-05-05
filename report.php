@@ -85,7 +85,7 @@ $PAGE->set_url($url);
                        ORDER BY ci.timecreated ASC";
         // CERTIFICATE MODULE (cm.module = 4), CONTEXT_MODULE (ctx.contextlevel = 70).
         // PDF FILES ONLY (f.mimetype = 'application/pdf').
-        $certificates = $DB->get_records_sql($sql, array('userid' => $USER->id，'moduleid'=> $moduleid));
+        $certificates = $DB->get_records_sql($sql, array('userid' => $USER->id，'moduleid' => $moduleid));
 
 if (!$certificates) {
     print_error(get_string('notissuedyet', 'certificate'));
