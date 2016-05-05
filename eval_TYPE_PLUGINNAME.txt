@@ -1,0 +1,124 @@
+
+FILE: /home/derek/work/certificates/version.php
+----------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+----------------------------------------------------------------------
+ 42 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 4
+ 43 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     24 space(s) but found 0
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
+
+FILE: /home/derek/work/certificates/db/access.php
+----------------------------------------------------------------------
+FOUND 19 ERRORS AFFECTING 19 LINES
+----------------------------------------------------------------------
+ 35 | ERROR | [x] Array key not aligned correctly; expected 17 spaces
+    |       |     but found 4
+ 36 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 37 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 38 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 39 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 40 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 12
+ 41 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 12
+ 42 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     24 space(s) but found 8
+ 44 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 45 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     47 space(s) but found 4
+ 47 | ERROR | [x] Array key not aligned correctly; expected 17 spaces
+    |       |     but found 4
+ 48 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 49 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 50 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 51 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 12
+ 52 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     24 space(s) but found 8
+ 54 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 55 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     49 space(s) but found 4
+ 56 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     16 space(s) but found 0
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 19 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
+
+FILE: /home/derek/work/certificates/version.php
+----------------------------------------------------------------------
+FOUND 2 ERRORS AFFECTING 2 LINES
+----------------------------------------------------------------------
+ 42 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 4
+ 43 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     24 space(s) but found 0
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
+
+FILE: /home/derek/work/certificates/db/access.php
+----------------------------------------------------------------------
+FOUND 19 ERRORS AFFECTING 19 LINES
+----------------------------------------------------------------------
+ 35 | ERROR | [x] Array key not aligned correctly; expected 17 spaces
+    |       |     but found 4
+ 36 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 37 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 38 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 39 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 40 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 12
+ 41 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 12
+ 42 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     24 space(s) but found 8
+ 44 | ERROR | [x] Array key not aligned correctly; expected 48 spaces
+    |       |     but found 8
+ 45 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     47 space(s) but found 4
+ 47 | ERROR | [x] Array key not aligned correctly; expected 17 spaces
+    |       |     but found 4
+ 48 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 49 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 50 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 51 | ERROR | [x] Array key not aligned correctly; expected 25 spaces
+    |       |     but found 12
+ 52 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     24 space(s) but found 8
+ 54 | ERROR | [x] Array key not aligned correctly; expected 50 spaces
+    |       |     but found 8
+ 55 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     49 space(s) but found 4
+ 56 | ERROR | [x] Closing parenthesis not aligned correctly; expected
+    |       |     16 space(s) but found 0
+----------------------------------------------------------------------
+PHPCBF CAN FIX THE 19 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+----------------------------------------------------------------------
+
+
